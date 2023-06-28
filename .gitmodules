@@ -1,0 +1,3 @@
+[submodule "ood_baselines/riqn/riqn"]
+	path = ood_baselines/riqn/riqn
+	url = https://github.com/haidertom/recurrent_implicit_quantile_networks

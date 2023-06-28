@@ -1,0 +1,19 @@
+faiss-gpu==1.7.2
+gym==0.21.0
+matplotlib==3.3.4
+mujoco-py==2.1.2.14
+numpy==1.22.3
+pandas==1.4.2
+protobuf==3.20.1
+pynvml==11.4.1
+PyVirtualDisplay==3.0
+PyYAML==6.0
+scikit-learn==1.0.2
+scipy==1.8.0
+seaborn==0.11.2
+stable-baselines3==1.5.0
+tables==3.7.0
+tensorboard==2.8.0
+--find-links https://download.pytorch.org/whl/torch/
+torch==1.11.0+cu113
+tqdm==4.64.0
